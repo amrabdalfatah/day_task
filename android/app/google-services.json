@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891890802756",
+    "project_id": "day-task-8f43c",
+    "storage_bucket": "day-task-8f43c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891890802756:android:35c4fa41aa947322a79c11",
+        "android_client_info": {
+          "package_name": "com.amrabdalfatah.day_task_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiSCozQKpLSg5BuLmH5UpPYm47aYCO1Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
